@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [NinjaStoreValidation (0)]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.atmecs.NinjaStore.retryanalyser.RetryListener"/>
+  </listeners>
+  <test thread-count="5" name="Validation tests(failed)">
+    <classes>
+      <class name="com.atmecs.NinjaStore.testscripts.NinjaStoreTestcase">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="quitDriver"/>
+          <include name="testcase1" invocation-numbers="0 0 0"/>
+          <include name="before"/>
+        </methods>
+      </class> <!-- com.atmecs.NinjaStore.testscripts.NinjaStoreTestcase -->
+    </classes>
+  </test> <!-- Validation tests(failed) -->
+</suite> <!-- Failed suite [NinjaStoreValidation (0)] -->

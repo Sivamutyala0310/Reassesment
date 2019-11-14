@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HeatClinicValidation]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.atmecs.NinjaStore.retryanalyser.RetryListener"/>
+  </listeners>
+  <test thread-count="5" name="HeatClinicValidation tests(failed)">
+    <classes>
+      <class name="com.atmecs.NinjaStore.testscripts.HeatClinicMerchandise">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="testcase1" invocation-numbers="0 0 0"/>
+          <include name="quitDriver"/>
+          <include name="launchingUrl"/>
+        </methods>
+      </class> <!-- com.atmecs.NinjaStore.testscripts.HeatClinicMerchandise -->
+    </classes>
+  </test> <!-- HeatClinicValidation tests(failed) -->
+</suite> <!-- Failed suite [HeatClinicValidation] -->

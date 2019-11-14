@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HeatClinicValidation">
+<listeners>
+        <listener class-name="com.atmecs.NinjaStore.retryanalyser.RetryListener"/>
+</listeners>
+  <test  name="HeatClinicValidation tests" >
+    <classes>
+     <class name="com.atmecs.NinjaStore.testscripts.HeatClinicMerchandise"/>
+      </classes>
+  </test> <!-- Validation tests -->
+  
+</suite> <!-- HeatClinicValidation -->

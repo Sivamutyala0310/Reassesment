@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NinjaStoreValidation" >
+	<suite-files>
+		<suite-file
+			path="./src\test\resources\suites\NinjaStoreTestcase1.xml" />
+			<suite-file
+			path="./src\test\resources\suites\HeatClinicTest.xml" />
+	</suite-files>
+</suite> <!-- NinjaStoreValidation -->

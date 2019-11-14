@@ -1,0 +1,302 @@
+2019-11-12 16:07:25,062  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 16:07:33,941  INFO [main] LogReports:28 - Domain name of the site = tutorialsninja.com
+2019-11-12 16:07:33,973  INFO [main] LogReports:28 - URL of the site = http://tutorialsninja.com/demo/
+2019-11-12 16:07:34,001  INFO [main] LogReports:28 - Title of the page = The Ninja Store
+2019-11-12 16:07:34,124  INFO [main] LogReports:28 - Passed : validating Homepage: Actual data : The Ninja Store   Expected data :The Ninja Store
+2019-11-12 16:07:42,470  INFO [main] LogReports:28 - 2 IPHONES ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:07:45,237  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-12 16:07:45,321  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $123.20   Expected data :$123.20
+2019-11-12 16:07:45,413  INFO [main] LogReports:28 - Passed : validated product tax: Actual data : Ex Tax: $101.00   Expected data :Ex Tax: $101.00
+2019-11-12 16:07:45,505  INFO [main] LogReports:28 - Passed : validated I phone product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected data :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-12 16:07:58,456  INFO [main] LogReports:28 - 3 MACBOOK AIR ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:08:08,785  INFO [main] LogReports:28 - failed: validated availability of product: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Availability: In Stock
+2019-11-12 16:08:18,899  INFO [main] LogReports:28 - failed: validated product price: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :$1,202.00
+2019-11-12 16:08:28,976  INFO [main] LogReports:28 - failed: validated product tax: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected : Ex Tax: $1,000.00
+2019-11-12 16:08:39,050  INFO [main] LogReports:28 - failed: validated macbook air product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-12 16:08:39,193  INFO [main] LogReports:28 - Passed : validated product cartTotal after adding all the products: Actual data : 5 item(s) - $3,852.40   Expected data :5 item(s) - $3,852.40
+2019-11-12 16:08:39,197  INFO [main] LogReports:28 - YES ALL THE 5 ADDED PRODUCTS THERE IN THE CART 5 item(s) - $3,852.40
+2019-11-12 16:08:39,197  INFO [main] LogReports:28 - GRAND TOTAL OF THE CART VALIDATED 5 item(s) - $3,852.40
+2019-11-12 16:08:39,561  INFO [main] LogReports:28 - clicking on  cart total
+2019-11-12 16:08:39,809  INFO [main] LogReports:28 - after removing on product from   cart total
+2019-11-12 16:08:41,349  INFO [main] LogReports:28 - Passed : validated product cartTotal: Actual data : 3 item(s) - $3,606.00   Expected data :3 item(s) - $3,606.00
+2019-11-12 16:08:41,349  INFO [main] LogReports:28 - SUCCESSFULLY VALIDATED PRODUCT DETAILS
+2019-11-12 16:11:32,198  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 16:11:40,985  INFO [main] LogReports:28 - Domain name of the site = tutorialsninja.com
+2019-11-12 16:11:41,015  INFO [main] LogReports:28 - URL of the site = http://tutorialsninja.com/demo/
+2019-11-12 16:11:41,047  INFO [main] LogReports:28 - Title of the page = The Ninja Store
+2019-11-12 16:11:41,191  INFO [main] LogReports:28 - Passed : validating Homepage: Actual data : The Ninja Store   Expected data :The Ninja Store
+2019-11-12 16:11:49,479  INFO [main] LogReports:28 - 2 IPHONES ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:11:52,382  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-12 16:11:52,487  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $123.20   Expected data :$123.20
+2019-11-12 16:11:52,575  INFO [main] LogReports:28 - Passed : validated product tax: Actual data : Ex Tax: $101.00   Expected data :Ex Tax: $101.00
+2019-11-12 16:11:52,659  INFO [main] LogReports:28 - Passed : validated I phone product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected data :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-12 16:12:05,730  INFO [main] LogReports:28 - 3 MACBOOK AIR ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:12:05,984  INFO [main] LogReports:28 - Locator type doesn't exist null
+2019-11-12 16:12:16,074  INFO [main] LogReports:28 - failed: validated availability of product: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Availability: In Stock
+2019-11-12 16:12:26,188  INFO [main] LogReports:28 - failed: validated product price: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :$1,202.00
+2019-11-12 16:12:36,320  INFO [main] LogReports:28 - failed: validated product tax: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected : Ex Tax: $1,000.00
+2019-11-12 16:12:46,408  INFO [main] LogReports:28 - failed: validated macbook air product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-12 16:12:46,596  INFO [main] LogReports:28 - Passed : validated product cartTotal after adding all the products: Actual data : 5 item(s) - $3,852.40   Expected data :5 item(s) - $3,852.40
+2019-11-12 16:12:46,596  INFO [main] LogReports:28 - YES ALL THE 5 ADDED PRODUCTS THERE IN THE CART 5 item(s) - $3,852.40
+2019-11-12 16:12:46,596  INFO [main] LogReports:28 - GRAND TOTAL OF THE CART VALIDATED 5 item(s) - $3,852.40
+2019-11-12 16:12:47,188  INFO [main] LogReports:28 - clicking on  cart total
+2019-11-12 16:12:47,460  INFO [main] LogReports:28 - after removing on product from   cart total
+2019-11-12 16:12:48,951  INFO [main] LogReports:28 - Passed : validated product cartTotal: Actual data : 3 item(s) - $3,606.00   Expected data :3 item(s) - $3,606.00
+2019-11-12 16:12:48,951  INFO [main] LogReports:28 - SUCCESSFULLY VALIDATED PRODUCT DETAILS
+2019-11-12 16:14:52,769  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 16:15:01,337  INFO [main] LogReports:28 - Domain name of the site = tutorialsninja.com
+2019-11-12 16:15:01,369  INFO [main] LogReports:28 - URL of the site = http://tutorialsninja.com/demo/
+2019-11-12 16:15:01,405  INFO [main] LogReports:28 - Title of the page = The Ninja Store
+2019-11-12 16:15:01,525  INFO [main] LogReports:28 - Passed : validating Homepage: Actual data : The Ninja Store   Expected data :The Ninja Store
+2019-11-12 16:15:09,759  INFO [main] LogReports:28 - 2 IPHONES ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:15:12,399  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-12 16:15:12,486  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $123.20   Expected data :$123.20
+2019-11-12 16:15:12,574  INFO [main] LogReports:28 - Passed : validated product tax: Actual data : Ex Tax: $101.00   Expected data :Ex Tax: $101.00
+2019-11-12 16:15:12,658  INFO [main] LogReports:28 - Passed : validated I phone product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected data :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-12 16:15:25,782  INFO [main] LogReports:28 - 3 MACBOOK AIR ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:15:26,102  INFO [main] LogReports:28 - Locator type doesn't exist null
+2019-11-12 16:15:36,136  INFO [main] LogReports:28 - failed: validated availability of product: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Availability: In Stock
+2019-11-12 16:15:46,207  INFO [main] LogReports:28 - failed: validated product price: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :$1,202.00
+2019-11-12 16:15:56,298  INFO [main] LogReports:28 - failed: validated product tax: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected : Ex Tax: $1,000.00
+2019-11-12 16:16:06,420  INFO [main] LogReports:28 - failed: validated macbook air product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-12 16:16:06,583  INFO [main] LogReports:28 - Passed : validated product cartTotal after adding all the products: Actual data : 5 item(s) - $3,852.40   Expected data :5 item(s) - $3,852.40
+2019-11-12 16:16:06,583  INFO [main] LogReports:28 - YES ALL THE 5 ADDED PRODUCTS THERE IN THE CART 5 item(s) - $3,852.40
+2019-11-12 16:16:06,583  INFO [main] LogReports:28 - GRAND TOTAL OF THE CART VALIDATED 5 item(s) - $3,852.40
+2019-11-12 16:16:06,935  INFO [main] LogReports:28 - clicking on  cart total
+2019-11-12 16:16:07,319  INFO [main] LogReports:28 - after removing on product from   cart total
+2019-11-12 16:16:08,927  INFO [main] LogReports:28 - Passed : validated product cartTotal: Actual data : 3 item(s) - $3,606.00   Expected data :3 item(s) - $3,606.00
+2019-11-12 16:16:08,930  INFO [main] LogReports:28 - SUCCESSFULLY VALIDATED PRODUCT DETAILS
+2019-11-12 16:21:06,145  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 16:21:14,890  INFO [main] LogReports:28 - Domain name of the site = tutorialsninja.com
+2019-11-12 16:21:14,928  INFO [main] LogReports:28 - URL of the site = http://tutorialsninja.com/demo/
+2019-11-12 16:21:14,968  INFO [main] LogReports:28 - Title of the page = The Ninja Store
+2019-11-12 16:21:15,088  INFO [main] LogReports:28 - Passed : validating Homepage: Actual data : The Ninja Store   Expected data :The Ninja Store
+2019-11-12 16:21:23,585  INFO [main] LogReports:28 - 2 IPHONES ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:21:26,557  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-12 16:21:26,657  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $123.20   Expected data :$123.20
+2019-11-12 16:21:26,777  INFO [main] LogReports:28 - Passed : validated product tax: Actual data : Ex Tax: $101.00   Expected data :Ex Tax: $101.00
+2019-11-12 16:21:26,885  INFO [main] LogReports:28 - Passed : validated I phone product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected data :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-12 16:21:39,736  INFO [main] LogReports:28 - 3 MACBOOK AIR ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:21:50,109  INFO [main] LogReports:28 - failed: validated availability of product: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Availability: In Stock
+2019-11-12 16:22:00,224  INFO [main] LogReports:28 - failed: validated product price: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :$1,202.00
+2019-11-12 16:23:28,395  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 16:23:36,638  INFO [main] LogReports:28 - Domain name of the site = tutorialsninja.com
+2019-11-12 16:23:36,730  INFO [main] LogReports:28 - URL of the site = http://tutorialsninja.com/demo/
+2019-11-12 16:23:36,762  INFO [main] LogReports:28 - Title of the page = The Ninja Store
+2019-11-12 16:23:36,878  INFO [main] LogReports:28 - Passed : validating Homepage: Actual data : The Ninja Store   Expected data :The Ninja Store
+2019-11-12 16:23:45,257  INFO [main] LogReports:28 - 2 IPHONES ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:23:48,062  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-12 16:23:48,147  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $123.20   Expected data :$123.20
+2019-11-12 16:23:48,231  INFO [main] LogReports:28 - Passed : validated product tax: Actual data : Ex Tax: $101.00   Expected data :Ex Tax: $101.00
+2019-11-12 16:23:48,319  INFO [main] LogReports:28 - Passed : validated I phone product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected data :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-12 16:24:01,394  INFO [main] LogReports:28 - 3 MACBOOK AIR ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:24:01,688  INFO [main] LogReports:28 - Locator type doesn't exist null
+2019-11-12 16:24:11,786  INFO [main] LogReports:28 - failed: validated availability of product: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Availability: In Stock
+2019-11-12 16:24:21,878  INFO [main] LogReports:28 - failed: validated product price: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :$1,202.00
+2019-11-12 16:24:31,950  INFO [main] LogReports:28 - failed: validated product tax: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected : Ex Tax: $1,000.00
+2019-11-12 16:24:42,028  INFO [main] LogReports:28 - failed: validated macbook air product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-12 16:24:42,174  INFO [main] LogReports:28 - Passed : validated product cartTotal after adding all the products: Actual data : 5 item(s) - $3,852.40   Expected data :5 item(s) - $3,852.40
+2019-11-12 16:24:42,186  INFO [main] LogReports:28 - YES ALL THE 5 ADDED PRODUCTS THERE IN THE CART 5 item(s) - $3,852.40
+2019-11-12 16:24:42,190  INFO [main] LogReports:28 - GRAND TOTAL OF THE CART VALIDATED 5 item(s) - $3,852.40
+2019-11-12 16:24:42,498  INFO [main] LogReports:28 - clicking on  cart total
+2019-11-12 16:24:42,710  INFO [main] LogReports:28 - after removing on product from   cart total
+2019-11-12 16:24:44,179  INFO [main] LogReports:28 - Passed : validated product cartTotal: Actual data : 3 item(s) - $3,606.00   Expected data :3 item(s) - $3,606.00
+2019-11-12 16:24:44,179  INFO [main] LogReports:28 - SUCCESSFULLY VALIDATED PRODUCT DETAILS
+2019-11-12 16:25:42,130  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 16:25:50,200  INFO [main] LogReports:28 - Domain name of the site = tutorialsninja.com
+2019-11-12 16:25:50,234  INFO [main] LogReports:28 - URL of the site = http://tutorialsninja.com/demo/
+2019-11-12 16:25:50,262  INFO [main] LogReports:28 - Title of the page = The Ninja Store
+2019-11-12 16:25:50,366  INFO [main] LogReports:28 - Passed : validating Homepage: Actual data : The Ninja Store   Expected data :The Ninja Store
+2019-11-12 16:25:58,655  INFO [main] LogReports:28 - 2 IPHONES ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:26:01,406  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-12 16:26:01,490  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $123.20   Expected data :$123.20
+2019-11-12 16:26:01,574  INFO [main] LogReports:28 - Passed : validated product tax: Actual data : Ex Tax: $101.00   Expected data :Ex Tax: $101.00
+2019-11-12 16:26:01,666  INFO [main] LogReports:28 - Passed : validated I phone product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected data :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-12 16:26:14,840  INFO [main] LogReports:28 - 3 MACBOOK AIR ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:26:16,669  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-12 16:26:16,780  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $1,202.00   Expected data :$1,202.00
+2019-11-12 16:26:16,900  INFO [main] LogReports:28 - failed: validated product tax: Actual data : Ex Tax: $1,000.00   Expected : Ex Tax: $1,000.00
+2019-11-12 16:26:17,040  INFO [main] LogReports:28 - Passed : validated macbook air product description: Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.   Expected data :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-12 16:26:17,128  INFO [main] LogReports:28 - Passed : validated product cartTotal after adding all the products: Actual data : 5 item(s) - $3,852.40   Expected data :5 item(s) - $3,852.40
+2019-11-12 16:26:17,132  INFO [main] LogReports:28 - YES ALL THE 5 ADDED PRODUCTS THERE IN THE CART 5 item(s) - $3,852.40
+2019-11-12 16:26:17,132  INFO [main] LogReports:28 - GRAND TOTAL OF THE CART VALIDATED 5 item(s) - $3,852.40
+2019-11-12 16:26:17,368  INFO [main] LogReports:28 - clicking on  cart total
+2019-11-12 16:26:17,648  INFO [main] LogReports:28 - after removing on product from   cart total
+2019-11-12 16:26:18,104  INFO [main] LogReports:28 - Passed : validated product cartTotal: Actual data : 3 item(s) - $3,606.00   Expected data :3 item(s) - $3,606.00
+2019-11-12 16:26:18,104  INFO [main] LogReports:28 - SUCCESSFULLY VALIDATED PRODUCT DETAILS
+2019-11-12 16:39:57,700  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 16:40:06,387  INFO [main] LogReports:28 - Domain name of the site = tutorialsninja.com
+2019-11-12 16:40:06,423  INFO [main] LogReports:28 - URL of the site = http://tutorialsninja.com/demo/
+2019-11-12 16:40:06,455  INFO [main] LogReports:28 - Title of the page = The Ninja Store
+2019-11-12 16:40:06,583  INFO [main] LogReports:28 - Passed : validating Homepage: Actual data : The Ninja Store   Expected data :The Ninja Store
+2019-11-12 16:40:14,937  INFO [main] LogReports:28 - 2 IPHONES ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:40:17,582  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-12 16:40:17,662  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $123.20   Expected data :$123.20
+2019-11-12 16:40:17,750  INFO [main] LogReports:28 - Passed : validated product tax: Actual data : Ex Tax: $101.00   Expected data :Ex Tax: $101.00
+2019-11-12 16:40:17,842  INFO [main] LogReports:28 - Passed : validated I phone product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected data :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-12 16:40:30,791  INFO [main] LogReports:28 - 3 MACBOOK AIR ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 16:40:41,146  INFO [main] LogReports:28 - failed: validated availability of product: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Availability: In Stock
+2019-11-12 16:40:51,214  INFO [main] LogReports:28 - failed: validated product price: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :$1,202.00
+2019-11-12 16:41:01,342  INFO [main] LogReports:28 - failed: validated product tax: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Ex Tax: $1,000.00
+2019-11-12 16:41:11,450  INFO [main] LogReports:28 - failed: validated macbook air product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-12 16:41:11,587  INFO [main] LogReports:28 - Passed : validated product cartTotal after adding all the products: Actual data : 5 item(s) - $3,852.40   Expected data :5 item(s) - $3,852.40
+2019-11-12 16:41:11,591  INFO [main] LogReports:28 - YES ALL THE 5 ADDED PRODUCTS THERE IN THE CART 5 item(s) - $3,852.40
+2019-11-12 16:41:11,591  INFO [main] LogReports:28 - GRAND TOTAL OF THE CART VALIDATED 5 item(s) - $3,852.40
+2019-11-12 16:41:11,899  INFO [main] LogReports:28 - clicking on  cart total
+2019-11-12 16:41:12,271  INFO [main] LogReports:28 - after removing on product from   cart total
+2019-11-12 16:41:13,706  INFO [main] LogReports:28 - Passed : validated product cartTotal: Actual data : 3 item(s) - $3,606.00   Expected data :3 item(s) - $3,606.00
+2019-11-12 16:41:13,706  INFO [main] LogReports:28 - SUCCESSFULLY VALIDATED PRODUCT DETAILS
+2019-11-12 16:41:19,432  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 16:41:29,482  INFO [main] LogReports:28 - Domain name of the site = 10.10.10.232
+2019-11-12 16:41:29,513  INFO [main] LogReports:28 - URL of the site = http://10.10.10.232:8080/
+2019-11-12 16:41:30,861  INFO [main] LogReports:28 - Passed : validated HotSauces menu page: Actual data : Viewing Hot Sauces (1 - 15 of 19)   Expected data :Viewing Hot Sauces (1 - 15 of 19)
+2019-11-12 16:41:31,735  INFO [main] LogReports:28 - Passed : validated Merchant menu page: Actual data : Viewing Merchandise (1 - 6 of 6)   Expected data :Viewing Merchandise (1 - 6 of 6)
+2019-11-12 16:41:32,462  INFO [main] LogReports:28 - Passed : validated Clearance menu page: Actual data : Viewing Clearance (1 - 5 of 5)   Expected data :Viewing Clearance (1 - 5 of 5)
+2019-11-12 16:41:33,122  INFO [main] LogReports:28 - Passed : validated New To Hot Sauces menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-12 16:41:33,806  INFO [main] LogReports:28 - Passed : validated FAQ menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-12 16:41:34,711  INFO [main] LogReports:28 - Passed : validated Mens menu page: Actual data : Viewing Mens (1 - 3 of 3)   Expected data :Viewing Mens (1 - 3 of 3)
+2019-11-12 16:41:36,266  INFO [main] LogReports:28 - Passed : validated product name in the cart: Actual data : Hawt Like a Habanero Shirt (Men's)   Expected data :Hawt Like a Habanero Shirt (Men's)
+2019-11-12 16:41:36,349  INFO [main] LogReports:28 - Passed : validated product size in the cart: Actual data : Shirt Size: M   Expected data :Shirt Size: M
+2019-11-12 16:41:36,457  INFO [main] LogReports:28 - Passed : validated PersonalizedName of product: Actual data : Personalized Name: Shirt   Expected data :Personalized Name: Shirt
+2019-11-12 16:41:36,561  INFO [main] LogReports:28 - Passed : validated colour of the product in the cart: Actual data : Shirt Color: Red   Expected data :Shirt Color: Red
+2019-11-12 16:41:39,935  INFO [main] LogReports:28 - adding 10 products to the cart
+2019-11-12 16:41:40,956  INFO [main] LogReports:28 - Passed : validated Total price of the products in the cart: Actual data : $149.90   Expected data :$149.90
+2019-11-12 16:41:40,956  INFO [main] LogReports:28 - validated all the product details
+2019-11-12 19:16:46,048  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 19:16:54,780  INFO [main] LogReports:28 - Domain name of the site = tutorialsninja.com
+2019-11-12 19:16:54,803  INFO [main] LogReports:28 - URL of the site = http://tutorialsninja.com/demo/
+2019-11-12 19:16:54,835  INFO [main] LogReports:28 - Title of the page = The Ninja Store
+2019-11-12 19:16:54,947  INFO [main] LogReports:28 - Passed : validating Homepage: Actual data : The Ninja Store   Expected data :The Ninja Store
+2019-11-12 19:17:03,278  INFO [main] LogReports:28 - 2 IPHONES ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 19:17:06,668  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-12 19:17:06,756  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $123.20   Expected data :$123.20
+2019-11-12 19:17:06,844  INFO [main] LogReports:28 - Passed : validated product tax: Actual data : Ex Tax: $101.00   Expected data :Ex Tax: $101.00
+2019-11-12 19:17:06,940  INFO [main] LogReports:28 - Passed : validated I phone product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected data :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-12 19:17:20,231  INFO [main] LogReports:28 - 3 MACBOOK AIR ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-12 19:17:30,632  INFO [main] LogReports:28 - failed: validated availability of product: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Availability: In Stock
+2019-11-12 19:17:40,735  INFO [main] LogReports:28 - failed: validated product price: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :$1,202.00
+2019-11-12 19:17:50,827  INFO [main] LogReports:28 - failed: validated product tax: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Ex Tax: $1,000.00
+2019-11-12 19:18:00,905  INFO [main] LogReports:28 - failed: validated macbook air product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-12 19:18:01,040  INFO [main] LogReports:28 - Passed : validated product cartTotal after adding all the products: Actual data : 5 item(s) - $3,852.40   Expected data :5 item(s) - $3,852.40
+2019-11-12 19:18:01,044  INFO [main] LogReports:28 - YES ALL THE 5 ADDED PRODUCTS THERE IN THE CART 5 item(s) - $3,852.40
+2019-11-12 19:18:01,044  INFO [main] LogReports:28 - GRAND TOTAL OF THE CART VALIDATED 5 item(s) - $3,852.40
+2019-11-12 19:18:01,419  INFO [main] LogReports:28 - clicking on  cart total
+2019-11-12 19:18:01,687  INFO [main] LogReports:28 - after removing on product from   cart total
+2019-11-12 19:18:03,304  INFO [main] LogReports:28 - Passed : validated product cartTotal: Actual data : 3 item(s) - $3,606.00   Expected data :3 item(s) - $3,606.00
+2019-11-12 19:18:03,309  INFO [main] LogReports:28 - SUCCESSFULLY VALIDATED PRODUCT DETAILS
+2019-11-12 19:18:09,712  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-12 19:18:19,736  INFO [main] LogReports:28 - Domain name of the site = 10.10.10.232
+2019-11-12 19:18:19,760  INFO [main] LogReports:28 - URL of the site = http://10.10.10.232:8080/
+2019-11-12 19:18:21,124  INFO [main] LogReports:28 - Passed : validated HotSauces menu page: Actual data : Viewing Hot Sauces (1 - 15 of 19)   Expected data :Viewing Hot Sauces (1 - 15 of 19)
+2019-11-12 19:18:22,087  INFO [main] LogReports:28 - Passed : validated Merchant menu page: Actual data : Viewing Merchandise (1 - 6 of 6)   Expected data :Viewing Merchandise (1 - 6 of 6)
+2019-11-12 19:18:22,942  INFO [main] LogReports:28 - Passed : validated Clearance menu page: Actual data : Viewing Clearance (1 - 5 of 5)   Expected data :Viewing Clearance (1 - 5 of 5)
+2019-11-12 19:18:23,775  INFO [main] LogReports:28 - Passed : validated New To Hot Sauces menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-12 19:18:24,655  INFO [main] LogReports:28 - Passed : validated FAQ menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-12 19:18:25,624  INFO [main] LogReports:28 - Passed : validated Mens menu page: Actual data : Viewing Mens (1 - 3 of 3)   Expected data :Viewing Mens (1 - 3 of 3)
+2019-11-12 19:18:27,236  INFO [main] LogReports:28 - Passed : validated product name in the cart: Actual data : Hawt Like a Habanero Shirt (Men's)   Expected data :Hawt Like a Habanero Shirt (Men's)
+2019-11-12 19:18:27,331  INFO [main] LogReports:28 - Passed : validated product size in the cart: Actual data : Shirt Size: M   Expected data :Shirt Size: M
+2019-11-12 19:18:27,427  INFO [main] LogReports:28 - Passed : validated PersonalizedName of product: Actual data : Personalized Name: Shirt   Expected data :Personalized Name: Shirt
+2019-11-12 19:18:27,519  INFO [main] LogReports:28 - Passed : validated colour of the product in the cart: Actual data : Shirt Color: Red   Expected data :Shirt Color: Red
+2019-11-12 19:18:30,836  INFO [main] LogReports:28 - adding 10 products to the cart
+2019-11-12 19:18:31,200  INFO [main] LogReports:28 - failed: validated Total price of the products in the cart: Actual data : $14.99   Expected :$149.90
+2019-11-12 19:18:31,200  INFO [main] LogReports:28 - validated all the product details
+2019-11-13 11:59:51,630  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-13 12:00:00,788  INFO [main] LogReports:28 - Domain name of the site = tutorialsninja.com
+2019-11-13 12:00:00,835  INFO [main] LogReports:28 - URL of the site = http://tutorialsninja.com/demo/
+2019-11-13 12:00:00,882  INFO [main] LogReports:28 - Title of the page = The Ninja Store
+2019-11-13 12:00:01,132  INFO [main] LogReports:28 - Passed : validating Homepage: Actual data : The Ninja Store   Expected data :The Ninja Store
+2019-11-13 12:00:09,892  INFO [main] LogReports:28 - 2 IPHONES ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-13 12:00:13,961  INFO [main] LogReports:28 - Passed : validated availability of product: Actual data : Availability: In Stock   Expected data :Availability: In Stock
+2019-11-13 12:00:14,060  INFO [main] LogReports:28 - Passed : validated product price: Actual data : $123.20   Expected data :$123.20
+2019-11-13 12:00:14,157  INFO [main] LogReports:28 - Passed : validated product tax: Actual data : Ex Tax: $101.00   Expected data :Ex Tax: $101.00
+2019-11-13 12:00:14,253  INFO [main] LogReports:28 - Passed : validated I phone product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected data :iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-13 12:00:28,055  INFO [main] LogReports:28 - 3 MACBOOK AIR ARE SUCCESSFULLY ADDED TO THE CART
+2019-11-13 12:00:28,586  INFO [main] LogReports:28 - Locator type doesn't exist null
+2019-11-13 12:00:38,704  INFO [main] LogReports:28 - failed: validated availability of product: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Availability: In Stock
+2019-11-13 12:00:48,819  INFO [main] LogReports:28 - failed: validated product price: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :$1,202.00
+2019-11-13 12:00:58,912  INFO [main] LogReports:28 - failed: validated product tax: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :Ex Tax: $1,000.00
+2019-11-13 12:01:08,974  INFO [main] LogReports:28 - failed: validated macbook air product description: Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.   Expected :MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-13 12:01:09,092  INFO [main] LogReports:28 - Passed : validated product cartTotal after adding all the products: Actual data : 5 item(s) - $3,852.40   Expected data :5 item(s) - $3,852.40
+2019-11-13 12:01:09,092  INFO [main] LogReports:28 - YES ALL THE 5 ADDED PRODUCTS THERE IN THE CART 5 item(s) - $3,852.40
+2019-11-13 12:01:09,092  INFO [main] LogReports:28 - GRAND TOTAL OF THE CART VALIDATED 5 item(s) - $3,852.40
+2019-11-13 12:01:09,469  INFO [main] LogReports:28 - clicking on  cart total
+2019-11-13 12:01:09,821  INFO [main] LogReports:28 - after removing on product from   cart total
+2019-11-13 12:01:10,536  INFO [main] LogReports:28 - Passed : validated product cartTotal: Actual data : 3 item(s) - $3,606.00   Expected data :3 item(s) - $3,606.00
+2019-11-13 12:01:10,536  INFO [main] LogReports:28 - SUCCESSFULLY VALIDATED PRODUCT DETAILS
+2019-11-13 12:01:17,329  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-13 12:01:27,668  INFO [main] LogReports:28 - Domain name of the site = 10.10.10.232
+2019-11-13 12:01:27,719  INFO [main] LogReports:28 - URL of the site = http://10.10.10.232:8080/
+2019-11-13 12:01:29,528  INFO [main] LogReports:28 - Passed : validated HotSauces menu page: Actual data : Viewing Hot Sauces (1 - 15 of 19)   Expected data :Viewing Hot Sauces (1 - 15 of 19)
+2019-11-13 12:01:30,828  INFO [main] LogReports:28 - Passed : validated Merchant menu page: Actual data : Viewing Merchandise (1 - 6 of 6)   Expected data :Viewing Merchandise (1 - 6 of 6)
+2019-11-13 12:01:32,080  INFO [main] LogReports:28 - Passed : validated Clearance menu page: Actual data : Viewing Clearance (1 - 5 of 5)   Expected data :Viewing Clearance (1 - 5 of 5)
+2019-11-13 12:01:33,027  INFO [main] LogReports:28 - Passed : validated New To Hot Sauces menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-13 12:01:33,922  INFO [main] LogReports:28 - Passed : validated FAQ menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-13 12:01:34,967  INFO [main] LogReports:28 - Passed : validated Mens menu page: Actual data : Viewing Mens (1 - 3 of 3)   Expected data :Viewing Mens (1 - 3 of 3)
+2019-11-13 12:01:36,922  INFO [main] LogReports:28 - Locator type doesn't exist null
+2019-11-13 12:01:46,972  INFO [main] LogReports:28 - failed: validated product name in the cart: Actual data : Viewing Mens (1 - 3 of 3)   Expected :Hawt Like a Habanero Shirt (Men's)
+2019-11-13 12:01:57,065  INFO [main] LogReports:28 - failed: validated product size in the cart: Actual data : Viewing Mens (1 - 3 of 3)   Expected :Shirt Size: M
+2019-11-13 12:02:07,113  INFO [main] LogReports:28 - failed: validated PersonalizedName of product: Actual data : Viewing Mens (1 - 3 of 3)   Expected :Personalized Name: Shirt
+2019-11-13 12:02:17,266  INFO [main] LogReports:28 - failed: validated colour of the product in the cart: Actual data : Viewing Mens (1 - 3 of 3)   Expected :Shirt Color: Red
+2019-11-13 12:02:27,478  INFO [main] LogReports:28 - Domain name of the site = 10.10.10.232
+2019-11-13 12:02:27,509  INFO [main] LogReports:28 - URL of the site = http://10.10.10.232:8080/mens
+2019-11-13 12:02:29,006  INFO [main] LogReports:28 - Passed : validated HotSauces menu page: Actual data : Viewing Hot Sauces (1 - 15 of 19)   Expected data :Viewing Hot Sauces (1 - 15 of 19)
+2019-11-13 12:02:30,074  INFO [main] LogReports:28 - Passed : validated Merchant menu page: Actual data : Viewing Merchandise (1 - 6 of 6)   Expected data :Viewing Merchandise (1 - 6 of 6)
+2019-11-13 12:02:31,054  INFO [main] LogReports:28 - Passed : validated Clearance menu page: Actual data : Viewing Clearance (1 - 5 of 5)   Expected data :Viewing Clearance (1 - 5 of 5)
+2019-11-13 12:02:32,130  INFO [main] LogReports:28 - Passed : validated New To Hot Sauces menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-13 12:02:33,086  INFO [main] LogReports:28 - Passed : validated FAQ menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-13 12:02:34,224  INFO [main] LogReports:28 - Passed : validated Mens menu page: Actual data : Viewing Mens (1 - 3 of 3)   Expected data :Viewing Mens (1 - 3 of 3)
+2019-11-13 12:02:36,141  INFO [main] LogReports:28 - Passed : validated product name in the cart: Actual data : Hawt Like a Habanero Shirt (Men's)   Expected data :Hawt Like a Habanero Shirt (Men's)
+2019-11-13 12:02:36,272  INFO [main] LogReports:28 - Passed : validated product size in the cart: Actual data : Shirt Size: M   Expected data :Shirt Size: M
+2019-11-13 12:02:36,359  INFO [main] LogReports:28 - Passed : validated PersonalizedName of product: Actual data : Personalized Name: Shirt   Expected data :Personalized Name: Shirt
+2019-11-13 12:02:36,452  INFO [main] LogReports:28 - Passed : validated colour of the product in the cart: Actual data : Shirt Color: Red   Expected data :Shirt Color: Red
+2019-11-13 12:02:39,894  INFO [main] LogReports:28 - adding 10 products to the cart
+2019-11-13 12:02:41,064  INFO [main] LogReports:28 - Passed : validated Total price of the products in the cart: Actual data : $149.90   Expected data :$149.90
+2019-11-13 12:02:41,064  INFO [main] LogReports:28 - validated all the product details
+2019-11-13 18:05:45,970  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-13 18:05:58,380  INFO [main] LogReports:28 - Domain name of the site = 10.10.10.232
+2019-11-13 18:05:58,410  INFO [main] LogReports:28 - URL of the site = http://10.10.10.232:8080/
+2019-11-13 18:06:00,109  INFO [main] LogReports:28 - Passed : validated HotSauces menu page: Actual data : Viewing Hot Sauces (1 - 15 of 19)   Expected data :Viewing Hot Sauces (1 - 15 of 19)
+2019-11-13 18:06:01,147  INFO [main] LogReports:28 - Passed : validated Merchant menu page: Actual data : Viewing Merchandise (1 - 6 of 6)   Expected data :Viewing Merchandise (1 - 6 of 6)
+2019-11-13 18:06:02,021  INFO [main] LogReports:28 - Passed : validated Clearance  menu page: Actual data : Viewing Clearance (1 - 5 of 5)   Expected data :Viewing Clearance (1 - 5 of 5)
+2019-11-13 18:06:02,760  INFO [main] LogReports:28 - Passed : validated New To Hot Sauces menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-13 18:06:03,471  INFO [main] LogReports:28 - Passed : validated FAQ menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-13 18:06:04,354  INFO [main] LogReports:28 - Passed : validated mens menu page: Actual data : Viewing Mens (1 - 3 of 3)   Expected data :Viewing Mens (1 - 3 of 3)
+2019-11-13 18:06:06,087  INFO [main] LogReports:28 - Passed : validated product name in the cart: Actual data : Hawt Like a Habanero Shirt (Men's)   Expected data :Hawt Like a Habanero Shirt (Men's)
+2019-11-13 18:06:06,199  INFO [main] LogReports:28 - Passed : validated product size in the cart: Actual data : Shirt Size: M   Expected data :Shirt Size: M
+2019-11-13 18:06:06,296  INFO [main] LogReports:28 - Passed : validated PersonalizedName of product: Actual data : Personalized Name: Shirt   Expected data :Personalized Name: Shirt
+2019-11-13 18:06:06,406  INFO [main] LogReports:28 - Passed : validated colour of the product in the cart: Actual data : Shirt Color: Red   Expected data :Shirt Color: Red
+2019-11-13 18:06:09,702  INFO [main] LogReports:28 - adding 10 products to the cart
+2019-11-13 18:06:10,786  INFO [main] LogReports:28 - Passed : validated Total price of the products in the cart: Actual data : $149.90   Expected data :$149.90
+2019-11-13 18:06:10,786  INFO [main] LogReports:28 - validated all the product details
+2019-11-14 14:56:04,715  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-14 14:56:16,012  INFO [main] LogReports:28 - Domain name of the site = 10.10.10.232
+2019-11-14 14:56:16,044  INFO [main] LogReports:28 - URL of the site = http://10.10.10.232:8080/
+2019-11-14 14:56:17,366  INFO [main] LogReports:28 - Passed : validated HotSauces menu page: Actual data : Viewing Hot Sauces (1 - 15 of 19)   Expected data :Viewing Hot Sauces (1 - 15 of 19)
+2019-11-14 14:56:18,372  INFO [main] LogReports:28 - Passed : validated Merchant menu page: Actual data : Viewing Merchandise (1 - 6 of 6)   Expected data :Viewing Merchandise (1 - 6 of 6)
+2019-11-14 14:56:19,125  INFO [main] LogReports:28 - Passed : validated Clearance  menu page: Actual data : Viewing Clearance (1 - 5 of 5)   Expected data :Viewing Clearance (1 - 5 of 5)
+2019-11-14 14:56:19,852  INFO [main] LogReports:28 - Passed : validated New To Hot Sauces menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-14 14:56:20,570  INFO [main] LogReports:28 - Passed : validated FAQ menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-14 14:56:21,503  INFO [main] LogReports:28 - Passed : validated mens menu page: Actual data : Viewing Mens (1 - 3 of 3)   Expected data :Viewing Mens (1 - 3 of 3)
+2019-11-14 14:56:23,269  INFO [main] LogReports:28 - Passed : validated product name in the cart: Actual data : Hawt Like a Habanero Shirt (Men's)   Expected data :Hawt Like a Habanero Shirt (Men's)
+2019-11-14 14:56:23,391  INFO [main] LogReports:28 - Passed : validated product size in the cart: Actual data : Shirt Size: M   Expected data :Shirt Size: M
+2019-11-14 14:56:23,487  INFO [main] LogReports:28 - Passed : validated PersonalizedName of product: Actual data : Personalized Name: Shirt   Expected data :Personalized Name: Shirt
+2019-11-14 14:56:23,583  INFO [main] LogReports:28 - Passed : validated product name in the cart: Actual data : Shirt Color: Red   Expected data :Shirt Color: Red
+2019-11-14 14:56:26,927  INFO [main] LogReports:28 - adding 10 products to the cart
+2019-11-14 14:56:27,302  INFO [main] LogReports:28 - Passed : validated Total price of the products in the cart: Actual data : $149.90   Expected data :$149.90
+2019-11-14 14:56:27,303  INFO [main] LogReports:28 - validated all the product details
+2019-11-14 16:30:41,244  INFO [main] LogReports:28 - Chrome browser is started...
+2019-11-14 16:30:53,584  INFO [main] LogReports:28 - Domain name of the site = 10.10.10.232
+2019-11-14 16:30:53,614  INFO [main] LogReports:28 - URL of the site = http://10.10.10.232:8080/
+2019-11-14 16:30:55,232  INFO [main] LogReports:28 - Passed : validated HotSauces menu page: Actual data : Viewing Hot Sauces (1 - 15 of 19)   Expected data :Viewing Hot Sauces (1 - 15 of 19)
+2019-11-14 16:30:56,242  INFO [main] LogReports:28 - Passed : validated Merchant menu page: Actual data : Viewing Merchandise (1 - 6 of 6)   Expected data :Viewing Merchandise (1 - 6 of 6)
+2019-11-14 16:30:57,052  INFO [main] LogReports:28 - Passed : validated Clearance  menu page: Actual data : Viewing Clearance (1 - 5 of 5)   Expected data :Viewing Clearance (1 - 5 of 5)
+2019-11-14 16:30:58,004  INFO [main] LogReports:28 - Passed : validated New To Hot Sauces menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-14 16:30:58,811  INFO [main] LogReports:28 - Passed : validated FAQ menu page: Actual data : This is an example of a content-managed page.   Expected data :This is an example of a content-managed page.
+2019-11-14 16:30:59,886  INFO [main] LogReports:28 - Passed : validated mens menu page: Actual data : Viewing Mens (1 - 3 of 3)   Expected data :Viewing Mens (1 - 3 of 3)
+2019-11-14 16:31:01,950  INFO [main] LogReports:28 - Passed : validated product name in the cart: Actual data : Hawt Like a Habanero Shirt (Men's)   Expected data :Hawt Like a Habanero Shirt (Men's)
+2019-11-14 16:31:02,069  INFO [main] LogReports:28 - Passed : validated product size in the cart: Actual data : Shirt Size: M   Expected data :Shirt Size: M
+2019-11-14 16:31:02,174  INFO [main] LogReports:28 - Passed : validated PersonalizedName of product: Actual data : Personalized Name: Shirt   Expected data :Personalized Name: Shirt
+2019-11-14 16:31:02,270  INFO [main] LogReports:28 - Passed : validated product name in the cart: Actual data : Shirt Color: Red   Expected data :Shirt Color: Red
+2019-11-14 16:31:05,577  INFO [main] LogReports:28 - adding 10 products to the cart
+2019-11-14 16:31:06,677  INFO [main] LogReports:28 - Passed : validated Total price of the products in the cart: Actual data : $149.90   Expected data :$149.90
+2019-11-14 16:31:06,678  INFO [main] LogReports:28 - validated all the product details
